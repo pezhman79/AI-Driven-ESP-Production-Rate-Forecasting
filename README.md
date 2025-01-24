@@ -36,8 +36,8 @@ pip install numpy pandas matplotlib scikit-learn scipy
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/esp-production-rate-prediction.git
-   cd esp-production-rate-prediction
+   git clone https://github.com/pezhman79/AI-Driven-ESP-Production-Rate-Forecasting.git
+   cd AI-Driven-ESP-Production-Rate-Forecasting
    ```
 
 2. **Prepare your data:**
